@@ -1,6 +1,5 @@
 # Brain Tumor Detection AI 🧠🔬
 
-![Kaggle](https://cdn.iconscout.com/icon/free/png-256/free-kaggle-icon-svg-download-png-14549614.png)
 
 ![Brain](https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg)
 
