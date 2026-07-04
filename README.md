@@ -2,9 +2,9 @@
 
 
 ![Brain](https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-# Brain Tumor Detection AI 🧠🔬
 
 An artificial intelligence application that classifies brain tumors from MRI images using the **EfficientNet-B0** architecture. The project features a user-friendly web interface powered by **Streamlit**.
 
@@ -39,8 +39,8 @@ Follow these steps to run the Streamlit application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mgulmak3333/brain-tumor-detection-ai/
-cd Zetaz-TumorLens
+git clone https://github.com/mgulmak3333/brain-tumor-detection-ai
+cd brain-tumor-detection-ai
 
 ```
 
