@@ -1,10 +1,10 @@
 # Brain Tumor Detection AI 🧠🔬
 
-<p align="center">
+<p align="left">
   <img src="https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg" alt="Brain MRI Scans" width="500">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
