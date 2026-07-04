@@ -1,12 +1,14 @@
 # Brain Tumor Detection AI 🧠🔬
 
+<p align="center">
+  <img src="https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg" alt="Brain MRI Scans" width="500">
+</p>
 
-![Brain](https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-
-
-An artificial intelligence application that classifies brain tumors from MRI images using the **EfficientNet-B0** architecture. The project features a user-friendly web interface powered by **Streamlit**.
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
 ---
 
