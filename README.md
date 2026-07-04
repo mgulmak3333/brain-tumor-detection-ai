@@ -33,7 +33,7 @@ Follow these steps to run the Streamlit application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/musaglmak/Zetaz-TumorLens.git](https://github.com/musaglmak/Zetaz-TumorLens.git)
+git clone https://github.com/mgulmak3333/brain-tumor-detection-ai/
 cd Zetaz-TumorLens
 
 ```
