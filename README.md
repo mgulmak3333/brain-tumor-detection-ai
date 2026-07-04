@@ -1,6 +1,7 @@
 # Brain Tumor Detection AI 🧠🔬
 
 ![Kaggle](https://cdn.iconscout.com/icon/free/png-256/free-kaggle-icon-svg-download-png-14549614.png)
+![Brain] (https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg)
 
 An artificial intelligence application that classifies brain tumors from MRI images using the **EfficientNet-B0** architecture. The project features a user-friendly web interface powered by **Streamlit**.
 
