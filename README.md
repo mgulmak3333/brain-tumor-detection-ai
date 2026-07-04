@@ -1,5 +1,7 @@
 # Brain Tumor Detection AI 🧠🔬
 
+![Kaggle](https://icon-icons.com/icon/kaggle-logo/168474)
+
 An artificial intelligence application that classifies brain tumors from MRI images using the **EfficientNet-B0** architecture. The project features a user-friendly web interface powered by **Streamlit**.
 
 ---
