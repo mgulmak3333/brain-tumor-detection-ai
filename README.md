@@ -81,4 +81,12 @@ URL: [https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data](https://w
 
 ```
 
-```
+
+---
+
+## 📜 License & Copyright
+
+Copyright © 2026 [mgulmak3333](https://github.com/mgulmak3333).  
+This project is licensed under the **Apache License 2.0**. 
+
+You are free to use, modify, and distribute this software under the terms of the Apache 2.0 License. For more details, please see the [LICENSE](LICENSE) file in the repository.
