@@ -14,6 +14,8 @@
 </p>
 
 ---
+## Kaggle Profile: (https://www.kaggle.com/musaglmak)
+---
 
 ## 🚀 Live Demo & Model Links
 * **Web Application:** Built with Streamlit.
