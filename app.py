@@ -22,5 +22,10 @@ if uploaded_file is not None:
     highest_prediction_index = np.argmax(predictions)
     confidence = predictions.max() * 100
     
-    st.write(f'**Result:** {class_names[highest_prediction_index]}')
-    st.write(f'**Confidence:** {confidence:.2f}%')
+    if confidence < 80.0:
+        st.warning('The image does not resemble a brain MRI or CT scan.')
+    else:
+        st.success(f'**Result:** {class_names[highest_prediction_index]}')
+        st.write(f'**Confidence:** {confidence:.2f}%')
+    
+    
