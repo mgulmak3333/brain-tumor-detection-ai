@@ -15,6 +15,8 @@
 
 ---
 ## Kaggle Profile: https://www.kaggle.com/musaglmak
+
+## Kaggle TumorLensB0 Model: https://www.kaggle.com/models/musaglmak/tumorlensb0
 ---
 
 ## 🚀 Live Demo & Model Links
