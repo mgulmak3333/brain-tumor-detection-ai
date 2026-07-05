@@ -33,8 +33,9 @@ The model is trained to classify MRI scans into four distinct categories:
 ## 🛠️ Tech Stack & Dependencies
 * **Deep Learning Framework:** TensorFlow / Keras
 * **Model Architecture:** EfficientNet-B0 (Transfer Learning)
+* **Model Complexity:** 4,378,537 Total Parameters (Optimized for hardware efficiency)
 * **Web Interface:** Streamlit
-* **Data Processing:** NumPy, Pillow (PIL)
+* **Data Processing & Computer Vision:** NumPy, Pillow (PIL)
 
 ---
 
