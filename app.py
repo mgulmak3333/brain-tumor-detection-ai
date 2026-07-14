@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np 
 from PIL import Image
 
-st.title('Brain Tumor Detection AI')
+st.title('TumorLensB0 | Brain Tumor Detection AI')
 
 model = tf.keras.models.load_model('brain_tumor_model.h5')
 class_names = ['Glioma', 'Meningioma', 'No tumor', 'Pituitary']
