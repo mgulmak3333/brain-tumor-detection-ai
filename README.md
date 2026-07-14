@@ -20,7 +20,8 @@
 ---
 
 ## 🚀 Live Demo & Model Links
-* **Web Application:** Built with Streamlit.
+
+* **Demo Link:** https://brain-tumor-detection-ai-fdy5i5kbyuw766zca82rm4.streamlit.app/
 * **Trained Model & Dataset:** You can access the trained model (`brain_tumor_model.h5`) and the source dataset on Kaggle via [Brain Tumor MRI Data by Tom Backert](https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data).
 
 ---
